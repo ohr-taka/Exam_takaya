@@ -8,7 +8,8 @@ import java.sql.SQLException;
 import bean.School;
 
 //コメント高谷
-//コメント増子
+//コメント競合解消
+
 public class SchoolDao extends Dao {
 	/**
 	 * getメソッド 学校コードを指定して学校インスタンスを１件取得する
