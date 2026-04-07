@@ -10,7 +10,7 @@ import java.util.List;
 import bean.ClassNum;
 import bean.School;
 
-
+//コメント
 public class ClassNumDao extends Dao {
 
 	public ClassNum get(String class_num, School school) throws Exception {
